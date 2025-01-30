@@ -17,7 +17,7 @@ const Hero = () => {
                <h1 className='lg:text-7xl text-4xl font-bold lg:leading-snug'>Hi There, <br />I'm Vanshika <span className='text-red-500'>Dwivedi</span></h1>
                <p className='md:text-2xl text-xl mb-4'>Software Engineer</p>
                <p className='mb-4'>I'm a passionate software engineer with expertise in the MERN stack, Java, and modern web technologies. I specialize in designing and building scalable, efficient, and user-friendly software solutions that address real-world problems. My focus lies in creating high-quality, functional applications with a strong emphasis on performance, security, and maintainability.</p>
-               <button className='bg-black text-white px-3 py-2 w-max rounded-md'><a href="/resume.pdf" download ='RESUME.pdf'>Download CV</a></button>
+               <button className='bg-black text-white px-3 py-2 w-max rounded-md'><a href="/RESUME.pdf" download ='RESUME.pdf'>Download CV</a></button>
             </div>
             <div className='md:w-1/2 relative flex justify-center items-end'>
                  <img src={girl} alt="" className='lg:h-[90vh] h-96' />
